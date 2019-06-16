@@ -64,6 +64,6 @@
     "uimessage1": "Welcome to the Conan tutorial! Please wait while everything gets set up..."
   },
   "backend": {
-    "imageid": "ubuntu"
+    "imageid": "conanio/gcc8"
   }
 }
